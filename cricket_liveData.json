@@ -1,0 +1,54 @@
+{
+   "ads": [
+      {
+         "app_showAds": "1",
+         "vpnscreen": "1",
+         "app_dialogBeforeAdShow": "1",
+         "app_showAdAppVersion": "1",
+         "app_clickCountAd": "2",
+         "appOpenAd": "1",
+         "interstitial": "1",
+         "interstitialBack": "0",
+         "nativeAd": "1",
+         "nativeBanner": "1",
+         "nativespacebox": "1",
+         "nativespaceboxColor": "F6F6F6",
+         "nativebg": "F6F6F6",
+         "nativetitle": "000000",
+         "nativebutton": "238636",
+         "nativedescription": "000000",
+         "vpnselectcountry": "us,ca,dk",
+         "VPNBaseUrl": "https://awebhtpo3u8g5t.ecoweb-network.com",
+         "VPNCarrierId": "sah_alphavpnproject",
+         "VPNCompulsory": "1",
+         "vpnFixcountry": "",
+         "vpnFixstate": "",
+         "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg",
+         "vpnCity": "",
+         "AppID": "ca-app-pub-3206456546664189~2974932913",
+         "Banner": "ca-app-pub-3940256099942544/6300978111",
+         "Interstitial": "ca-app-pub-3940256099942544/1033173712",
+         "Native": "ca-app-pub-3940256099942544/2247696110",
+         "RewardedVideo": "ca-app-pub-3940256099942544/5354046379",
+         "AppOpen": "ca-app-pub-3940256099942544/3419835294"
+      }
+   ],
+   "_update comment": "0:None & 1:Normal & 2:Force",
+   "update": [
+      {
+         "version_code": "12",
+         "update_type": "0",
+         "update_title": "App Update",
+         "update_text": "Enjoy the latest update with Elegant layout and many more. Update app now..."
+      }
+   ],
+   "_transfer comment": "0:None & 1:Transfer",
+   "transfer": [
+      {
+         "enable": "0",
+         "transfer_title": "App Transfer",
+         "transfer_text": "Enjoy the latest app with Elegant layout and many more. Update app now...",
+         "link": "https://play.google.com/store/apps/details?id=com.google.net"
+      }
+   ]
+}
